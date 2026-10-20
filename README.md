@@ -14,7 +14,7 @@
 
 **Full Stack Engineer** · AI Applications · Scalable Backends · React / Next.js
 
-[Portfolio](https://steadydev7.vercel.app) · [Email](mailto:mindiron277@gmail.com) · [Whatsapp](https://api.whatsapp.com/send?phone=17157097990)
+[Portfolio](https://noah-thomas.vercel.app) · [Email](mailto:mindiron277@gmail.com) · [Whatsapp](https://api.whatsapp.com/send?phone=17157097990)
 
 <br/>
 
