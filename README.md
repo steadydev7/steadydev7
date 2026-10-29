@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Noah+Thomas!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+John+Brennan!;" />
 
 ---
 
@@ -14,7 +14,7 @@
 
 **Full Stack Engineer** · AI Applications · Scalable Backends · React / Next.js
 
-[Portfolio](https://noah-thomas.vercel.app) · [Email](mailto:mindiron277@gmail.com) · [Whatsapp](https://api.whatsapp.com/send?phone=17157097990)
+[Portfolio](https://john-brennan.vercel.app) · [Email](mailto:mindiron277@gmail.com) · [Whatsapp](https://api.whatsapp.com/send?phone=17157097990)
 
 <br/>
 
